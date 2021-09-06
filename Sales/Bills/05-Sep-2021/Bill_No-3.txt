@@ -1,0 +1,13 @@
+                Thank You                
+
+Date: 05-Sep-2021
+Bill No: 3
+Name:dsfs
+Phone Number: 
+=========================================
+Product Id   Product Name   Product Price
+=========================================
+9            Poco X2        15999        
+8            Olive Oil      449          
+=========================================
+                    Total = 16448        

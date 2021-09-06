@@ -1,0 +1,14 @@
+                Thank You                
+
+Date: 06-Sep-2021
+Bill No: 2
+Name:Ali
+Phone Number: 665544322
+=========================================
+Product Id   Product Name   Product Price
+=========================================
+2            Gas Stove      2000         
+10           Tata Tea       499          
+3            Laptop         59999        
+=========================================
+                    Total = 62498        

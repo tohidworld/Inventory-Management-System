@@ -1,0 +1,12 @@
+                Thank You                
+
+Date: 06-Sep-2021
+Bill No: 1
+Name:Danish
+Phone Number: 6699887755
+=========================================
+Product Id   Product Name   Product Price
+=========================================
+1            Ceiling Fan    2500         
+=========================================
+                    Total = 2500         

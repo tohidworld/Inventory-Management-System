@@ -1,0 +1,13 @@
+                Thank You                
+
+Date: 05-Sep-2021
+Bill No: 1
+Name:Saba
+Phone Number: 7788990066
+=========================================
+Product Id   Product Name   Product Price
+=========================================
+7            IPhone 12      81999        
+5            PS5 Console    59999        
+=========================================
+                    Total = 141998       

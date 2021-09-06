@@ -1,0 +1,13 @@
+                Thank You                
+
+Date: 06-Sep-2021
+Bill No: 3
+Name:Fardeen
+Phone Number: 7744553311
+=========================================
+Product Id   Product Name   Product Price
+=========================================
+1            OnePlus 9      54999        
+4            Google Play    2000         
+=========================================
+                    Total = 56999        
