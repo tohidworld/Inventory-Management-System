@@ -25,7 +25,7 @@ A software developed using Python which provides a easy way to track the product
        - Enter Specific Date To See A Record in Detail
 8. Exit
 
-# Files
+## Files
 
 There is a **ims.py file**  which is our main program that we have to run besides these there is one **Products.json file** which keep records of all the products available. It is placed in the same directory as of the ims.py file. 
 There is one  **Sales folder** also placed in the same directory. Inside this folder there is one **All_sales.json file** which keep record of all the products purchased and this program also generates **[date].json file** automatically in the Sales folder  to keep record of all  purchase on a particular day. 
